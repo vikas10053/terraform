@@ -4,7 +4,7 @@ resource "local_file" "vikas" {
 }
 
 
-resource "local_file" "vikas" {
+resource "local_file" "vicky" {
     filename = "C:/Users/vikkadmin/Desktop/t_output/vicky.txt"
     content = "vikas kumar singh bye"
 }
